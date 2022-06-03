@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48" version="1.1">
+  <defs>
+    <image id="image5" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAABmJLR0QA/wD/AP+gvaeTAAAFY0lEQVRYhe2YW28bNxCFvyG5kizZThrHCdKnFChQ9P//nbZIgCSNnZttWdJeyJk+LHdFKQZSNFaahxACtCtxOWdnzpwZUsyM72m4/xvA/vgB6EvjB6AvjR+AvjS+PSDFNsS36BLukMBwYNstgHVgaIOuSEv0BkCmzH7Dnew9I4dSar0hviN+BEUbtIUGi1gCw82QCdUzZr+DL587gIeso3tN+xJdoTWuwiIakXEC6Ao24Jj8glscEpAuaV/RvSF+QgBDFVNGODkeglSYos2hAdXE92gDhklvGqlAEQeCgHUYWIufYJu9BQ4QMl2jKwAM8bgAgqUMDimcNEGqAwMSj6ThOiBTrIMOs8Fn/ccQA8E/3FvgvnVIN1vGuIAI1mGKGQZmmGIZEijxw0EBGfQUNgSsRVdgd+kfAGmFLkEPBsg2pI/Qh0xQwT5TYxFkpFEkfsDqwwGKxOvMXzMkZTijAmX2CCL5Ni1Jy3KNeyV1ukFv6aXfZZpg5PzPN8O1gCmQy8tBAJX2ckXqYdnA4mGWgTgExOFm5RL3GLJEWgM7EaH47vM9B1EGt1lOgmHcr4da0ioLTDaWvwt4HlcBpDp7VHzJsnv0kMP84BvbBTEi7KPlil9lr9rfI6BMjSHVB0bvjP7fmCcYmGJdOeP+QqYr4vsiz/vKKpndW7obGrf3YntOuS8PGekaEviRPztRk+LWFeA+k86v95ChK+IHur5N7nbXtyE6hRSZQwzr87EalP0OQGlgmfCvhqE17Qu6S2yFRcRhgyv6YBlDD7SVJMSGaYJuSFeEp6PRAGAt8ZLuEvH4B+CRgH+Am+9j0CW6QSoQdEX3N/EtaWiyRLYauNeql8K45dnILB1zLYDSvqT9k7RGHBIA3DFuQfUz4RxdozV+TrqhfQ0tlrAEim7QpjA5WCpdvG3HBseMWEWgQuYllQNaW/zYNmIsbtvHp5PLiV+iHVwRL3DHeRMjnrTJ8baEKbLrg7IylNU004U7mGAJ65Bp+VdApI6nH9en07BW80gf/oiAtqR11rpRWhCkNFOSYy80PXv6fkMHl5ToHRi0OT0zINPg4snsduavJmE1MLFYcfvSe8jImWK2RcY40+EmaBxypZ9vhS8McYjSvSItqZ7iH4EE3KKaP6/8HySPOsxyC7ej/UUvkblSdhTkbBo5RJ9KfdX0EHcjNXRFGLqhu8DdQsLNkSMH4E+Y/YabY+66eVanB0UspJD5Et9wMXJ2R38MM7TfqsbPMq7wkzk0ktbIUZ8fmd6WVpuaq/pJHU/UfGGsXEvQPc6W/t9x2S7JydQU2Ra7UZP6Trx93c/MwqipvWnOVNOiupqHT0NoZGvJRqtWaF1Z1WV7O84vfSkedMdbZfT9Ee54Cwi/eDC/CPomSI3sbAOKh4er3ZeHEfqg0XlikVOZmrbDMyvWdXOIUGVAvjrxE6NNTTxudeHo5tWVSNr6vywCoz0buGmWRVWm2AYxxOddmAwNoWmGWL6bGDLBHeMf9Zk/eMgSenvbPLxqnhnhKFwdVTcylr1t7Hx+UXGIQzwyQ8AS4Se0xp1gDf4UHLpGr4k3SL91LFrVMeJS4c+Y/ko4QyYjICN9auLiuj2d+tXx5H1wnZNYPAlMcQH/EG0QjzvGTfCPCWf52IWU8bl5rj8I3QXudS7DtJhiirWIw1rcKeGc6XPc6ZYa+cAqfepWf23qtAhvvasHDRUkIEe4Cf4RgJsQniBHd9Tdu4fm/kQbJICRbokXuCkyIzzGLZBp+cB4gqboDc0L4jtMkZB3J+GccI5UiAeQ6qtbqITWiCB3v9LekV5EN2iNWyAB60+TvunB6MHOGP/r+O7Oqf8BTTTr+RHrlWQAAAAASUVORK5CYII="/>
+    <pattern id="pattern0" patternUnits="userSpaceOnUse" width="48" height="48">
+      <use xlink:href="#image5"/>
+    </pattern>
+  </defs>
+  <g id="surface1">
+    <rect x="0" y="0" width="48" height="48" style="fill:url(#pattern0);stroke:none;"/>
+  </g>
+</svg>
